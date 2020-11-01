@@ -44,5 +44,6 @@ public class SessionDto {
 	public void setDevice(String device) {
 		this.device = device;
 	}
+
 	
 }
